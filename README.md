@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Israel. I am a Summa Cum Laude graduated from the Bolivian Catholic University with a BE in Mechatronics. 
+👋 Hi, My name is Israel. I am a Summa Cum Laude graduated from the Bolivian Catholic University with a BE in Mechatronics. 
 Currently, I am part of the computer science team at the Mechatronics research center CIDIMEc. 
 Furthermore, I have been working and teaching at Catholic University for more than two years.
 - 👀 I’m interested in computer vision applications using deep learning techniques.
