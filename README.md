@@ -1,12 +1,11 @@
-👋 Welcome! my name is Israel. I am machine perception enthusiast with research and industry experience in the fields of Machine Learning, Computer Vision, and Robotics.
+👋 Welcome! My name is Israel. I am a machine perception enthusiast with research and industry experience in the fields of Machine Learning, Computer Vision, and Robotics.
 Currently, I work as a Software Engineer at Sony in Brussels. 
-Previously, I completed a M.Sc. in Artificial Intelligence at KU Leuven with a thesis in collaboration with the European Space Agency. My research interests include: machine perception, models on the edge, and 3D computer vision.
+Previously, I completed my M.Sc. in Artificial Intelligence at KU Leuven with a thesis in collaboration with the European Space Agency. My research interests include machine perception, models on the edge, and 3D computer vision.
 In particular, I would like to explore the use of commodity sensors for democratizing real-time 3D scene reconstruction and understanding.  
 
 As a Software Engineer in the AI & Perception team at the Mobile and Exploration Department in Sony Depthsensing Solutions NV in Brussels-Belgium, I work on the challenging topic of achieving real-time depth completion on edge devices. 
-In a nutshell, the objective is to combine RGB data and highly sparse depth information to produce a dense and accurate depth map stream in real-time on a mobile device. 
-I am primarily involved in model optimization, implementing of latency-aware structured pruning, designed to jointly optimize for latency and accuracy in TensorFlow.
-
+In a nutshell, my team's objective is to combine RGB data and highly sparse depth information to produce a dense and accurate depth map stream in real-time on a mobile device. 
+I am primarily involved in model optimization, implementing of latency-aware structured pruning designed to jointly optimize for latency and accuracy in TensorFlow.
 
 ## 🔥 News
 + 2023.10 🎉 My team is showcasing our Neural RGB-D Fusion technology at at ICCV2023 🎉
